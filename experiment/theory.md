@@ -148,6 +148,7 @@ The colour of mineral powder is called streak of a mineral, and may be quite dif
 Lustre is the nature of shining on the surface of the mineral.
 
 #### Based on the Quality of Shining Lustre are grouped as:
+
 | Sr No |	Name of the Lustre |	Description of Lustre |	Mineral Examples |
 |--|--|--|--|
 | 1 | 	Metallic Lustre |	Metallic Lustre is the type of shinning that appears on the surface of a metal |	Galena,	Pyrite, Gold, Bernie |
@@ -167,6 +168,7 @@ The Lustre of mineral may be of different degrees of intensity, according to the
 Fracture is the randomly broken surface a mineral. It is important to note the characters of the fracture displayed in the broken or chipped surfaces. Fracture with irregular surfaces are independent and different from smooth flat surfaces of cleavages.
 
 **Fracture is described as:**
+
 | Sr No |	Name of the Fracture |	Description of the Mineral |	Mineral Examples |
 | --- | --- | --- | --|
 |1 | Even Fracture | If the broken surface of a mineral is plain an smooth, it is called Even Fracture|Magnetite, Chalk|
@@ -197,6 +199,7 @@ The definite direction or plane along which mineral tends to break easily is cal
 Hardness may be defined as the resistance offered by mineral to abrasion or scratching. Hardness may be tested by rubbing or scratching the specimen over a file or knife. The amount powder and the degree of noise produced is a test of the hardness of the mineral. When a softer mineral is scratched by a harder mineral, a definite scratch is observed on the softer mineral.
 
 A standard set of 10 reference mineral is used to determine the hardness of a mineral. This is called Moh's Scale of hardness.
+
 | reference | Scale | reference | Scale |
 |--|--|--|--|
 | Talc	| **1** | Feldspar	| **6** |
