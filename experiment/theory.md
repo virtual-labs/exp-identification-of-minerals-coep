@@ -104,9 +104,9 @@ It depends upon the absorption of some and the reflection of others of coloured 
 **For Example:**
 
 ##### Chemical composition of olivine of 2-end members
-1.	**Fosterite:**  Mg~2~ SiO~4~ White Colour
-2.	**Fayalite:**  Fl~2~ SiO~4~ Dark Bottle Green
-This is caused by eh Fe~2~ ion observing the more of the reddish and the violet parts of the spectrum. Therefore, olivine is more or less green according to its iron content. Sometimes impurities cause colour.
+1.	**Fosterite:**  Mg2 SiO4 White Colour
+2.	**Fayalite:**  Fl2 SiO4 Dark Bottle Green
+This is caused by eh Fe2 ion observing the more of the reddish and the violet parts of the spectrum. Therefore, olivine is more or less green according to its iron content. Sometimes impurities cause colour.
 
 ##### Diagnostic colours of some minerals:
 
