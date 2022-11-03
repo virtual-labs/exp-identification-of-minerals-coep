@@ -1,7 +1,7 @@
 **REFERENCES**
 
 -  Farndon, J. (2016) Rocks, Minerals and Gems. Hermes House Anness Publishing Ltd, London.
--  Read, H.H. (Rev. ed. C.D. Gribble) (1988) Rutley’s Elements of Mineralogy” (27th Edition), CBS Publications. 
+-  Read, H.H. (Rev. ed. C.D. Gribble) (1988) Rutley's Elements of Mineralogy" (27th Edition), CBS Publications. 
 
 **LEARNING RESOURCES**
 1.	https://nptel.ac.in/courses/105/105/105105170/
