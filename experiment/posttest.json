@@ -2,37 +2,105 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Metamorphism involving both temperature and load is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Contact metamorphism",
+        "b": "Pyrometamorphism",
+        "c": "Plutonic metamorphism",
+        "d": "Dyke metamorphism"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation: Plutonic metamorphism is a process of metamorphism that takes place due to equally important role of imposed loads and very high temperatures that become natural at those great depths.",
+        "d": "Explanation"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4 A depression or hollow of considerable area extent surrounded on the side by two or more elevated tracts is called ",
+      "answers": {
+        "a": "Valley",
+        "b": "Mountain",
+        "c": "Pit",
+        "d": "Crest"
+      },
+      "explanations": {
+        "a": "Explanation: A valley, in the geomorphic sense, is a depression or hollow of considerable area extent surrounded on side by two or more elevated tracts. Valleys may be the result of age-long erosion along the medial parts of elevated tracts, or, these might have been produced from a gradual or abrupt subsidence",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation "
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
-    {
-      "question": "This is a Sample Question 2?",
+	{
+      "question": "Sinking or settling of the ground in almost vertical direction naturally is called ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Flowage",
+        "b": "Sliding",
+        "c": "Avalanche",
+        "d": "Subsidence"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation: ",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation:Subsidence is defined as sinking or settling of the ground in almost vertically downward direction which may occur because of the removal of natural support from the underground or due to compaction of the weaker rocks under the load from overlying mass"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "The mountains not belonging to tectonic mountains are ",
+      "answers": {
+        "a": "Residual mountains",
+        "b": "Volcanic mountains",
+        "c": "Fault block mountains",
+        "d": "Folded mountains"
+      },
+      "explanations": {
+        "a": "Explanation: The mountains considered under the tectonic mountains are volcanic mountains, fault block mountains and the folded mountains. Residual mountains are totally belonging to a different class of mountains",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation: "
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Pseudochromatism occurs due to ",
+      "answers": {
+        "a": "Reflection",
+        "b": "Transmittance",
+        "c": "Refraction",
+        "d": "Simultaneous reflection and refraction"
+      },
+      "explanations": {
+        "a": "Explanation: ",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation: Psuodochromatism is attributed to simultaneous reflection and refraction from the mineral surface due to minute inclusions of impurities in the mineral at different locations"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Which reservoirs are used to feed the canal systems for irrigation and power generation?",
+      "answers": {
+        "a": "Storage and conservation reservoirs",
+        "b": "Flood control reservoirs",
+        "c": "Distribution reservoirs",
+        "d": "Drought control reservoirs"
+      },
+      "explanations": {
+        "a": "Explanation: Storage and conservation reservoirs, are the ones where river water is stored by creating barriers or dams in its path and is then released from gated or ungated outlets. These feed the canal systems for irrigation and power generation ",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation: "
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
