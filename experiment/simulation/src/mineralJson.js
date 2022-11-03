@@ -3474,7 +3474,7 @@ masterJson = {
 	"mineralId": 35,
 	"originalName": "Satin Spar",
 	"dummyName": "Mineral35",
-	"src": "images/SatinSpar.jpg",
+	"src": "images/SatinSpar3.jpg",
 	"chemical_Classification": "Sulphate",
 	"colour": "Clear, colourless, white, gray, yellow, red, brown",
 	"streak": "white",

@@ -1,8 +1,8 @@
-# The objective of the experiment
+### The objective of the experiment
 **Identification:** The students will get hands-on experience of identifying metallic and non-metallic minerals ores in hand specimens megascopically. This will help them in FIELD to  identify the important rock forming minerals. And Recognize the minerals of rocks.<br>
 **Observation:** Observation of the mineral to identify the mineral type and its different type of properties.
 
-# Pre-requisite (if anything required)
+### Pre-requisite (if anything required)
 - Basic knowledge of Minerals
 - Specimens Availability
 - Unglazed porcelain plate (known as a streak plate), hardness scale etc.
@@ -243,13 +243,3 @@ Depending upon the resistance offered by the mineral to the passage of light thr
 Some minerals exhibit peculiar characters which enable them to be identified easily. In some cases they are the consequences of the physical properties of the mineral itself. They are as follows.
 - Tale by virtue of its Soft Nature **(H-1)**  exhibits smooth touch or soapy feel.
 - Graphite ->  its low hardness **(H-1 to 2)** and black color marks on paper and due to their softness and black colour soil the fingers.
-
-
-**People (who provided help in developing the experiment as name, email, and Photo)**
-
-
-
-
-
-
-
