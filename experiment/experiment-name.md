@@ -1,1 +1,1 @@
-## Identification of Mineral. 
+## Identification of Mineral
