@@ -73,6 +73,7 @@ Most minerals can be characterized and classified by their unique physical prope
 **FORM:**
 This is one of the first observation made when a mineral is examined in a hand specimen. The form represent the common mode of occurrence of a mineral in nature it is also called habit or structure of the mineral.
 The following is the list of some common forms and the minerals which characteristically exhibit them, i.e., appearance of the particular form is indicative of a certain mineral.
+
 | Sr No |	Name of the Form |	Description	| Mineral Example |
 |----   |----                |----           |      ---       |
 | 1    |	Lamellar Form   |	Mineral	appear separate layers	as	thin	| Different Mica varieties of |
