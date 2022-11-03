@@ -1,1 +1,1 @@
-### Aim of the experiment
+### The aim of this practical is to Megascopically  identify minerals. megascopic description of minerals includes identification of all the physical characters which are visible in hand specimens by unaided eyes. 
