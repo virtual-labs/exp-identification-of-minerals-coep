@@ -79,13 +79,13 @@ The following is the list of some common forms and the minerals which characteri
 | 2 |Tabular Form |	Mineral appear as slabs of  uniform thickness |	Feldspar |
 | 3 |	Fibrous Form |	Mineral appear to be made up of fine threads fibers may or may not be separable |	Parallel Fibers     Asbestos type Satinspar. Radiating Fibers |Stibnite, Pyrite Zeolites |
 | 4 |	Pisolitic Form | 	Mineral appear to be made up of small spherical grains(pea-size)	
-| 5 |	Oolitic Form |	Similar	to	Pisolitie	but grains are  of still smaller size (like fish egg) | Some Limestone’s |
+| 5 |	Oolitic Form |	Similar	to	Pisolitie	but grains are  of still smaller size (like fish egg) | Some Limestone's |
 | 6 |	Rhombic Form |	Rhombic Shape |	Calcite, Dolomite |
 | 7 |	Bladed Form |	Mineral appear as cluster or as independent lath shaped (i.e. rectangular grains) |	Kyanite |
 | 8 |	Granular Form |	Mineral appear to be made up of innumerable equidimensional grains of coarse or medium or fine size |	Chromite,Magnetite,Pyrite  |
 | 9 |	Reni From |	Kidney shaped mineral appear with number of over lapping smooth and somewhat large curved surfaces |	Hematite |
 | 10 |	Botryoidal Form | 	Similar to Reni form but with smaller curved faces like bunch of grapes | Chalcedony Psilomclane hematite |
-| 11 |	Mammillary | Mineral appear with large mutually	interfering spheroidal surface – similar to Reni form |	Malachite |
+| 11 |	Mammillary | Mineral appear with large mutually	interfering spheroidal surface - similar to Reni form |	Malachite |
 | 12 |	Acicular Form |	Mineral appear to be made up of thin needles  | Natrolitc, Actinolite |
 | 13 |	Columnar Form | 	Mineral	appear slender prism	as	long |	Tourmaline Topaz |
 | 14 |	Prismatic Form |	As	elongated	indepent crystals |	Staucdite, Apatite, Quartz	Beryl, |
@@ -110,16 +110,16 @@ This is caused by eh Fe~2~ ion observing the more of the reddish and the violet 
 
 ##### Diagnostic colours of some minerals:
 
-1.	Galena – Dark Leady Grey
+1.	Galena - Dark Leady Grey
 2.	Hematite - Dark Leady Grey
-3.	Graphite – Shining Black
-4.	Pyrite – Black
-5.	Olivine – Yellow
-6.	Muscovite in book form – Silver White Colour
-7.	Muscovite in thin layers – Colorless
-8.	Magnesite – Spotless White
+3.	Graphite - Shining Black
+4.	Pyrite - Black
+5.	Olivine - Yellow
+6.	Muscovite in book form - Silver White Colour
+7.	Muscovite in thin layers - Colorless
+8.	Magnesite - Spotless White
 9.	Opal – Milky white
-10.	Chromite, Magnetite – Black
+10.	Chromite, Magnetite - Black
 Commonly Exhibited Colour of some Minerals
 
 | Minerals->Colour  | Minerals->Colour	|
@@ -195,7 +195,7 @@ The definite direction or plane along which mineral tends to break easily is cal
 **HARDNESS:**
 Hardness may be defined as the resistance offered by mineral to abrasion or scratching. Hardness may be tested by rubbing or scratching the specimen over a file or knife. The amount powder and the degree of noise produced is a test of the hardness of the mineral. When a softer mineral is scratched by a harder mineral, a definite scratch is observed on the softer mineral.
 
-A standard set of 10 reference mineral is used to determine the hardness of a mineral. This is called Moh’s Scale of hardness.
+A standard set of 10 reference mineral is used to determine the hardness of a mineral. This is called Moh's Scale of hardness.
 | reference | Scale | reference | Scale |
 |--|--|--|--|
 | Talc	| **1** | Feldspar	| **6** |
@@ -219,7 +219,7 @@ Hardness may be tested by means of Penknife **(H=6)** Window Glass **(H=5)** and
 **Note:**
 Some important rock forming minerals such as pyroxenes and Amphiboles have densities around 3.3.
 
-Specific Gravity is the ratio between its weight and the weight of an equal volume of water at 40°C. Based on the Specific Gravity of Minerals, the Density of Minerals may be described as High, Medium and Low.
+Specific Gravity is the ratio between its weight and the weight of an equal volume of water at 40&deg;C. Based on the Specific Gravity of Minerals, the Density of Minerals may be described as High, Medium and Low.
 
 | Sr No. |	Density	Mineral | Example |
 |--|--|--|
