@@ -1,5 +1,5 @@
 # The objective of the experiment
-**Identification:** The students will get hands-on experience of identifying metallic and non-metallic minerals ores in hand specimens megascopically. This will help them in FIELD to  identify the important rock forming minerals. And Recognize the minerals of rocks.
+**Identification:** The students will get hands-on experience of identifying metallic and non-metallic minerals ores in hand specimens megascopically. This will help them in FIELD to  identify the important rock forming minerals. And Recognize the minerals of rocks.<br>
 **Observation:** Observation of the mineral to identify the mineral type and its different type of properties.
 
 # Pre-requisite (if anything required)
