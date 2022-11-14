@@ -2698,7 +2698,7 @@ masterJson = {
 	"originalName": "Native Copper",
 	"dummyName": "Mineral27",
 	"src": "images/Nativecopper1.jpg",
-	"src1": "images/NativeCopper2.jpg",
+	"src1": "images/Nativecopper2.jpg",
 	"src2": "images/Nativecopper3.jpg",
 	"chemical_Classification": "Native element",
 	"colour": "Copper red on a fresh surface, dull brown on a tarnished",
