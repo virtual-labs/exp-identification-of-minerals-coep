@@ -1,13 +1,13 @@
 var i=1;
 var mineralCount=1;
-var maxIndexArr = 50;
+var maxIndexArr = 5;
 let  SampleRandomArr = [];
 function randomIntFromInterval(){ 
 	do {
-//	    let num = Math.floor(Math.random() * 50 + 1);
-//		SampleRandomArr.push(num);
-	    SampleRandomArr.push(i);
-	    i++;
+	    let num = Math.floor(Math.random() * 50 + 1);
+		SampleRandomArr.push(num);
+//	    SampleRandomArr.push(i);
+//	    i++;
 	    SampleRandomArr =  SampleRandomArr.filter((item, index) => {
 	    return  SampleRandomArr.indexOf(item) === index;
 	  });
