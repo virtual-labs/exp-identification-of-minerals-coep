@@ -1,5 +1,5 @@
 **REFERENCES**
-
+- [Properties_Minerals.pdf](https://github.com/virtual-labs/exp-identification-of-minerals-coep/files/10013123/Properties_Minerals.pdf) - by Dr. Sandeep A. Meshram, Associate Professor in Geology, COEP Technological University, Pune
 -  Farndon, J. (2016) Rocks, Minerals and Gems. Hermes House Anness Publishing Ltd, London.
 -  Read, H.H. (Rev. ed. C.D. Gribble) (1988) Rutley's Elements of Mineralogy" (27th Edition), CBS Publications. 
 

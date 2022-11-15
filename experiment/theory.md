@@ -7,6 +7,8 @@
 - Specimens Availability
 - Unglazed porcelain plate (known as a streak plate), hardness scale etc.
 
+You can find the mineral and its properties file in references which is developed by Dr. Sandeep A. Meshram, Associate Professor in Geology, COEP Technological University, Pune
+
 A mineral is **a naturally occurring inorganic solid, with a definite chemical composition, and an ordered atomic arrangement.** This may seem a bit of a mouthful, but if you break it down it becomes simpler. Minerals are naturally occurring. They are not made by humans. Minerals are inorganic.
 
 Minerals are classified based on their crystal form and chemistry. Minerals are divided into two types namely **metallic and non-metallic.**
