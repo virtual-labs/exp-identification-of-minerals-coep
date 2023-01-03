@@ -1,6 +1,6 @@
 var i=1;
 var mineralCount=1;
-var maxIndexArr = 5;
+var maxIndexArr = 50;
 let  SampleRandomArr = [];
 var attemptCount=0;
 function randomIntFromInterval(){ 
