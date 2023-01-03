@@ -5,10 +5,10 @@ let  SampleRandomArr = [];
 var attemptCount=0;
 function randomIntFromInterval(){ 
 	do {
-//	    let num = Math.floor(Math.random() * 50 + 1);
-//		SampleRandomArr.push(num);
-	    SampleRandomArr.push(i);
-	    i++;
+	    let num = Math.floor(Math.random() * 50 + 1);
+		SampleRandomArr.push(num);
+//	    SampleRandomArr.push(i);
+//	    i++;
 	    SampleRandomArr =  SampleRandomArr.filter((item, index) => {
 	    return  SampleRandomArr.indexOf(item) === index;
 	  });
