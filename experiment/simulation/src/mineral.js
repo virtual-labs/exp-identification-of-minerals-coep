@@ -246,6 +246,7 @@ function mineralSelect(){
 					var mineral=$('#mineral :selected').val();
 					var originalName=$('#originalName :selected').val();
 						 	if(mineral==originalName){
+								$("#helpTip").hide();
 						 		$('#info_div').html("");
 
 						 		var text='<div class="container col-lg-5  col-sm-12" >'
