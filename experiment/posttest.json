@@ -9,12 +9,7 @@
         "c": "Idiochromatic",
         "d": "Iridescence"
       },
-      "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation: Idiochromatic having a characteristic, fairly constant colour related primarily to the composition of mineral. Metallic minerals belong to this category.",
-        "d": "Explanation"
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -26,12 +21,7 @@
         "c": "Idiochromatic",
         "d": "Iridescence"
       },
-      "explanations": {
-        "a": "Explanation: Pseudochromatic minerals show false colour. Such an effect generally happens when a mineral is rotated in hand; it is then seen to show a set colours in succession",
-        "b": "Explanation ",
-        "c": "Explanation ",
-        "d": "Explanation "
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -43,12 +33,7 @@
         "c": "Refraction",
         "d": "Simultaneous reflection and refraction"
       },
-      "explanations": {
-        "a": "Explanation: ",
-        "b": "Explanation ",
-        "c": "Explanation ",
-        "d": "Explanation: Psuodochromatism is attributed to simultaneous reflection and refraction from the mineral surface due to minute inclusions of impurities in the mineral at different locations"
-      },
+     
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -60,12 +45,7 @@
         "c": "Iridescence",
         "d": "Pseudochromatism"
       },
-      "explanations": {
-        "a": "Explanation",
-        "b": "Explanation ",
-        "c": "Explanation : Some minerals may show rainbow colours either in their interior or on the exterior surface. This is called iridescence",
-        "d": "Explanation: "
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -78,12 +58,7 @@
         "c": "Colourless and opaque",
         "d": "Coloured and transparent"
       },
-      "explanations": {
-        "a": "Explanation: Colourless and transparent minerals will always give a colourless streak that has no significance. The coloured and opaque minerals, especially of ore groups, give typically characteristic streaks quite different from other similarly looking minerals ",
-        "b": "Explanation ",
-        "c": "Explanation ",
-        "d": "Explanation: "
-      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     }
