@@ -8,12 +8,6 @@
 				"c": "Chemical composition and atomic constitution",
 				"d": "Physical makeup"
 			},
-			"explanations": {
-				"a": "Explanation",
-				"b": "Explanation",
-				"c": "Explanation :Hardness may be defined as the resistance, which a mineral offers to an external deformation action such as scratching, abrasion, rubbing or indentation. Hardness of a mineral depends on its chemical composition and atomic constitution.",
-				"d": "Explanation"
-			},
 			"correctAnswer": "c",
 			"difficulty": "beginner"
 		},
@@ -25,12 +19,7 @@
 				"c": "Organic substance",
 				"d": "Definite chemical composition"
 			},
-			"explanations": {
-				"a": "Explanation",
-				"b": "Explanation",
-				"c": "Explanation : A mineral, is defined as, a naturally occurring inorganic solid substance that is characterized with a definite chemical composition and very often with a definite atomic structure.",
-				"d": "Explanation"
-			},
+			
 			"correctAnswer": "c",
 			"difficulty": "beginner"
 		},
@@ -42,12 +31,7 @@
 				"c": "More of occurrence",
 				"d": "Properties, formation and occurrence"
 			},
-			"explanations": {
-				"a": "Explanation",
-				"b": "Explanation",
-				"c": "Explanation :",
-				"d": "Explanation : Mineralogy is the branch of geology dealing with the wide range of aspects related to minerals like their individual properties, mode of occurrence and mode of formation"
-			},
+			
 			"correctAnswer": "d",
 			"difficulty": "beginner"
 		},
@@ -59,12 +43,7 @@
 				"c": "Absorption",
 				"d": "Reflection and absorption"
 			},
-			"explanations": {
-				"a": "Explanation",
-				"b": "Explanation",
-				"c": "Explanation :",
-				"d": "Explanation : A particular colour is produced by reflection of some and absorption of other components of white light."
-			},
+			
 			"correctAnswer": "d",
 			"difficulty": "beginner"
 		},
@@ -76,12 +55,7 @@
 				"c": "Iridescence",
 				"d": "Pseudochromatic"
 			},
-			"explanations": {
-				"a": "Explanation",
-				"b": "Explanation: Allochromatic minerals have a variable colour; the variety in colour is generally due to minute quantities of colouring impurities thoroughly dispersed in the mineral composition.",
-				"c": "Explanation",
-				"d": "Explanation"
-			},
+			
 			"correctAnswer": "b",
 			"difficulty": "beginner"
 		},
@@ -93,12 +67,7 @@
 				"c": "Metallic minerals",
 				"d": "Non-metallic minerals"
 			},
-			"explanations": {
-				"a": "Explanation",
-				"b": "Explanation: Streak is an important diagnostic property of many coloured minerals. Simply defined as the colour of the finely powdered mineral as obtained by scratching or rubbing the mineral over rough unglazed porcelain plate.",
-				"c": "Explanation",
-				"d": "Explanation"
-			},
+			
 			"correctAnswer": "b",
 			"difficulty": "beginner"
 		}

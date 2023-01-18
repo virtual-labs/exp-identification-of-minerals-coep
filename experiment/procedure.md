@@ -1,4 +1,4 @@
-#### Procedure
+#### Step by step procedure
 1. Select "Mineral" from the Selection box.
 2. Determine the correct Mineral name for selected speciman which is available at the left bottom side.
 3. If selected name is wrong re-attempt the selection. If selected name is right you will proceed to questionnaire based on Mineral properties.
