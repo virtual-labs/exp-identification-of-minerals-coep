@@ -2,5 +2,5 @@
 
 ### Objective
 * To be able to explain all characteristics and facts associated with minerals.  
-* To be able to chatagories minerals based on their chemical formula/composition.  
+* To be able to catagories minerals based on their chemical formula/composition.  
 * To be able to explain the characteristics used to identify minerals including unusual properties. 
