@@ -1,0 +1,75 @@
+{
+	"version": 2.0,
+	"questions": [{
+			"question": "Hardness of a mineral depends upon",
+			"answers": {
+				"a": "Naturally occurring",
+				"b": "Atomic constitution",
+				"c": "Chemical composition and atomic constitution",
+				"d": "Physical makeup"
+			},
+			"correctAnswer": "c",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "Which of the following is not true about a mineral?",
+			"answers": {
+				"a": "Naturally occurring",
+				"b": "Inorganic substance",
+				"c": "Organic substance",
+				"d": "Definite chemical composition"
+			},
+			
+			"correctAnswer": "c",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "Mineralogy deals with?",
+			"answers": {
+				"a": "Individual properties of minerals",
+				"b": "Formation of minerals",
+				"c": "More of occurrence",
+				"d": "Properties, formation and occurrence"
+			},
+			
+			"correctAnswer": "d",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "A colour is produced due to",
+			"answers": {
+				"a": "Reflection",
+				"b": "Refraction",
+				"c": "Absorption",
+				"d": "Reflection and absorption"
+			},
+			
+			"correctAnswer": "d",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "The type of mineral showing variable colour is ?",
+			"answers": {
+				"a": "Idiochromatic",
+				"b": "Allochromatic",
+				"c": "Iridescence",
+				"d": "Pseudochromatic"
+			},
+			
+			"correctAnswer": "b",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "Streak is an important diagnostic property of",
+			"answers": {
+				"a": "Non-coloured minerals",
+				"b": "Coloured minerals",
+				"c": "Metallic minerals",
+				"d": "Non-metallic minerals"
+			},
+			
+			"correctAnswer": "b",
+			"difficulty": "beginner"
+		}
+	]
+}

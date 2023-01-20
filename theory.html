@@ -1,0 +1,927 @@
+<!DOCTYPE html><html lang="en"><head>
+      <!--Google Tag Manager-->
+      <script class="gtm">
+        var dataLayer = [{
+        'labName': 'Virtual Lab',
+        'discipline': 'Test',
+        'college': 'COEP',
+        'phase': 'Testing',
+        'expName': 'IDENTIFICATION OF MINERAL',
+        'expShortName': 'identification-of-minerals'
+        }];
+    
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5NMQ9NQ');
+      </script>
+      <!--End Google Tag Manager-->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="" name="description">
+    <meta content="" name="author">
+    
+    	<meta name="experiment-short-name" content="identification-of-minerals">
+    	<meta name="developer-institute" content="COEP">
+    	<meta name="learning-unit" content="IDENTIFICATION OF MINERAL">
+    	<meta name="task-name" content="Theory">
+    
+    <!-- For iPhone -->
+    <meta name="msapplication-TileColor" content="#4076e0">
+    <!-- Chrome, Firefox OS and Opera -->
+    <meta name="theme-color" content="#4076e0">
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#4076e0">
+    <title>Virtual Labs</title>
+    <link rel="shortcut icon" href="./assets/images/favicon.ico">
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css" integrity="sha512-Oy18vBnbSJkXTndr2n6lDMO5NN31UljR8e/ICzVPrGpSud4Gkckb8yUpqhKuUNoE+o9gAb4O/rAxxw1ojyUVzg==" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&amp;family=Raleway&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./assets/css/github-markdown.min.css">
+    <link rel="stylesheet" href="./assets/css/vlabs-style.css">
+    <link rel="stylesheet" href="./assets/css/katex.min.css">
+    
+    <script src="./assets/js/jquery-3.4.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js" integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <style>
+      h1 {
+      font-size: 1.8rem;
+      }
+      h2 {
+      font-size: 1.4rem;
+      }
+      h3 {
+      font-size: 1.2rem;
+      }
+
+      h2, h3 {
+      font-weight: 800;
+      }
+    </style>
+    
+  </head>
+  <body class="p-0 container-fluid vlabs-page d-flex flex-column justify-content-between">
+      <!--Google Tag Manager (noscript)-->
+      <noscript class="gtm">
+        <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-5NMQ9NQ" style="display:none;visibility:hidden" width="0">
+        </iframe>
+      </noscript>
+      <!--End Google Tag Manager (noscript)-->
+  
+      <header class="vlabs-header sticky-top bg-white">
+        <nav class="p-0 navbar navbar-light d-flex align-items-stretch">
+          
+          <button class="navbar-toggler px-4" type="button" onclick="toggle()">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+      
+          <div class="d-flex justify-content-center">        
+            <a href="https://vlab.co.in" class="navbar-brand">
+              <img src="./assets/images/vlabs-color-small-moe.jpg" alt="vlabs logo" class="vlabs-logo">
+            </a>
+          </div>
+          
+          <div id="headerNavbar" class="d-none border-top flex-grow-1 d-lg-flex align-items-center justify-content-end">
+              <bug-report id="bug-report" title="[BUG REPORT] IDENTIFICATION OF MINERAL" page-type="text" context-info="{&quot;organisation&quot;:&quot;Virtual Labs&quot;,&quot;developer_institute&quot;:&quot;COEP&quot;,&quot;expname&quot;:&quot;IDENTIFICATION OF MINERAL&quot;,&quot;labname&quot;:&quot;Virtual Lab&quot;,&quot;phase&quot;:&quot;Testing&quot;}" checkbox-json="{&quot;text&quot;:[&quot;Insufficient Content&quot;],&quot;video&quot;:[&quot;Insufficient Content&quot;],&quot;assesment&quot;:[&quot;Incorrect Options&quot;,&quot;Incorrect Answer&quot;,&quot;Incorrect Question&quot;],&quot;simulation&quot;:[&quot;Simulation Not Working&quot;,&quot;Incorrect Results/Observations&quot;,&quot;Insufficient/Incorrect Instructions&quot;],&quot;DEFAULT&quot;:[&quot;Page Not Loading&quot;,&quot;Content Not Visible&quot;,&quot;Incorrect Content&quot;]}" button_style="border: none; color: #fff; background-color: #288ec8; text-align: center; font-size: 1.05rem; border-radius: 1em;padding: 0.6em 1.2em; margin: 0 10px" position="override" custom_button_class="v-button"></bug-report>
+          </div>
+        </nav>
+      </header>
+      <div class="container-fluid flex-fill d-flex flex-column vlabs-page-main">
+        <div class="row d-flex justify-content-between">
+          <div class="flex-column">
+          <div class="row py-4 px-4 breadcrumbs">
+          	<div class="title is-4 tools">Tools</div>
+          	<span class="mx-2">
+          		<i aria-hidden="true" class="fa fa-angle-right"></i>
+          	</span>
+          	<a href="performance-report.html" class="my-2" target="_blank">
+          		<button class="v-button">Performance Tool</button>
+          	</a>
+          	<a href="validator-report.html" class="my-2" target="_blank">
+          		<button class="v-button">Validator</button>
+          	</a>
+          </div>
+          </div>
+        </div>
+        <div class="row flex-grow-1 d-flex flex-nowrap flex-column flex-lg-row">
+          <div class="modal fade popupmenu" id="popupMenu" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+              <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+                  <div class="modal-content">
+                      <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalLabel">
+                              <a href="https://vlab.co.in" class="navbar-brand">
+                                  <img src="./assets/images/vlabs-color-small-moe.jpg" alt="vlabs logo" class="vlabs-logo">
+                              </a>
+                          </h5>
+                          <button type="button" class="btn-close align-self-center" data-bs-dismiss="modal" aria-label="Close"></button>
+                      </div>
+                      <div class="modal-body nav-menu">
+                              <div>
+                                  <div class="d-flex nav-menu-body">
+                                      <a href="index.html" class="p-2 ">
+                                      Aim
+                                      </a>
+                                      
+                                  </div>
+                                  <div id="t-" class="collapse">
+                                      <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                                      </div>
+                                  </div>
+                              </div>
+                              <div>
+                                  <div class="d-flex nav-menu-body">
+                                      <a href="theory.html" class="p-2  current-item ">
+                                      Theory
+                                      </a>
+                                      
+                                  </div>
+                                  <div id="t-" class="collapse">
+                                      <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                                      </div>
+                                  </div>
+                              </div>
+                              <div>
+                                  <div class="d-flex nav-menu-body">
+                                      <a href="pretest.html" class="p-2 ">
+                                      Pretest
+                                      </a>
+                                      
+                                  </div>
+                                  <div id="t-" class="collapse">
+                                      <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                                      </div>
+                                  </div>
+                              </div>
+                              <div>
+                                  <div class="d-flex nav-menu-body">
+                                      <a href="procedure.html" class="p-2 ">
+                                      Procedure
+                                      </a>
+                                      
+                                  </div>
+                                  <div id="t-" class="collapse">
+                                      <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                                      </div>
+                                  </div>
+                              </div>
+                              <div>
+                                  <div class="d-flex nav-menu-body">
+                                      <a href="simulation.html" class="p-2 ">
+                                      Simulation
+                                      </a>
+                                      
+                                  </div>
+                                  <div id="t-" class="collapse">
+                                      <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                                      </div>
+                                  </div>
+                              </div>
+                              <div>
+                                  <div class="d-flex nav-menu-body">
+                                      <a href="posttest.html" class="p-2 ">
+                                      Posttest
+                                      </a>
+                                      
+                                  </div>
+                                  <div id="t-" class="collapse">
+                                      <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                                      </div>
+                                  </div>
+                              </div>
+                              <div>
+                                  <div class="d-flex nav-menu-body">
+                                      <a href="references.html" class="p-2 ">
+                                      References
+                                      </a>
+                                      
+                                  </div>
+                                  <div id="t-" class="collapse">
+                                      <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                                      </div>
+                                  </div>
+                              </div>
+                              <div>
+                                  <div class="d-flex nav-menu-body">
+                                      <a href="feedback.html" class="p-2 ">
+                                      Feedback
+                                      </a>
+                                      
+                                  </div>
+                                  <div id="t-" class="collapse">
+                                      <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                                      </div>
+                                  </div>
+                              </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="nav flex-column sidebar nav-menu flex-shrink-0 px-lg-4 align-items-center align-items-lg-start hidden d-none d-lg-flex" id="menu">
+                <div>
+                    <div class="d-flex nav-menu-body">
+                        <a href="index.html" class="p-2 ">
+                        Aim
+                        </a>
+                        
+                    </div>
+                    <div id="t-" class="collapse">
+                        <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="d-flex nav-menu-body">
+                        <a href="theory.html" class="p-2  current-item ">
+                        Theory
+                        </a>
+                        
+                    </div>
+                    <div id="t-" class="collapse">
+                        <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="d-flex nav-menu-body">
+                        <a href="pretest.html" class="p-2 ">
+                        Pretest
+                        </a>
+                        
+                    </div>
+                    <div id="t-" class="collapse">
+                        <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="d-flex nav-menu-body">
+                        <a href="procedure.html" class="p-2 ">
+                        Procedure
+                        </a>
+                        
+                    </div>
+                    <div id="t-" class="collapse">
+                        <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="d-flex nav-menu-body">
+                        <a href="simulation.html" class="p-2 ">
+                        Simulation
+                        </a>
+                        
+                    </div>
+                    <div id="t-" class="collapse">
+                        <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="d-flex nav-menu-body">
+                        <a href="posttest.html" class="p-2 ">
+                        Posttest
+                        </a>
+                        
+                    </div>
+                    <div id="t-" class="collapse">
+                        <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="d-flex nav-menu-body">
+                        <a href="references.html" class="p-2 ">
+                        References
+                        </a>
+                        
+                    </div>
+                    <div id="t-" class="collapse">
+                        <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="d-flex nav-menu-body">
+                        <a href="feedback.html" class="p-2 ">
+                        Feedback
+                        </a>
+                        
+                    </div>
+                    <div id="t-" class="collapse">
+                        <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                        </div>
+                    </div>
+                </div>
+          </div>          <div class="vlabs-page-content px-5 pb-4 flex-grow-1 markdown-body">
+            <div class="text-center fix-spacing">
+              <h2 id="identification-of-mineral">Identification of Mineral</h2>
+          
+            </div>
+              <p><strong>Observation:</strong> Observation of the mineral to identify the mineral type and its different type of properties.</p>
+          <h3 id="pre-requisite">Pre-requisite</h3>
+          <ul>
+          <li>Basic knowledge of Minerals</li>
+          <li>Specimens Availability</li>
+          <li>Unglazed porcelain plate (known as a streak plate), hardness scale etc.</li>
+          </ul>
+          <p>You can find the mineral and its properties file in references which is developed by Dr. Sandeep A. Meshram, Associate Professor in Geology, COEP Technological University, Pune.</p>
+          <p>A mineral is <strong>a naturally occurring inorganic solid, with a definite chemical composition, and an ordered atomic arrangement.</strong> This may seem a bit of a mouthful, but if you break it down it becomes simpler. Minerals are naturally occurring. They are not made by humans. Minerals are inorganic.</p>
+          <p>Minerals are classified based on their crystal form and chemistry. Minerals are divided into two types namely <strong>metallic and non-metallic.</strong>
+          <strong>More than 4,000</strong>  naturally occurring minerals-inorganic solids that have a characteristic chemical composition and specific crystal structure-have been found on Earth
+          The five most common mineral groups in rock are the <strong>silicates, carbonates, sulfates, halides, and oxides.</strong> There are about 4000 known minerals in the Earth's crust, and about 92 % of them are silicates. The most abundant silicate is called plagioclase.</p>
+          <p>The broadest divisions of the <strong>classification</strong> used in the present discussion are </p>
+          <ul>
+          <li> native elements</li>
+          <li> sulfides</li>
+          <li> sulfosalts</li>
+          <li> oxides and hydroxides</li>
+          <li> halides</li>
+          <li> carbonates</li>
+          <li> nitrates</li>
+          <li> borates</li>
+          <li> sulfates</li>
+          <li> phosphates</li>
+          <li> silicates</li>
+          </ul>
+          <p><img src="images/mineral1.png" alt="Mineral hierarchy*******************************************************************************"></p>
+          <p>Minerals are divided into groups based on chemical composition. Most minerals fit into one of <strong>eight</strong> mineral groups.</p>
+          <p><strong>The major classes of minerals are:</strong></p>
+          <ul>
+          <li>   silicates.</li>
+          <li>   sulfides.</li>
+          <li>   carbonates.</li>
+          <li>   oxides.</li>
+          <li>   halides.</li>
+          <li>   sulfates.</li>
+          <li>   phosphates.</li>
+          <li>   native elements.</li>
+          </ul>
+          <p><strong>Types of minerals:</strong></p>
+          <ul>
+          <li>   Native elements. eg. Gold, Silver, Mercury, graphite, diamond.</li>
+          <li>   Oxides. eg corundum (incl.sapphire), hematite, spinel.</li>
+          <li>   Hydroxides. eg. Goethite, brucite.</li>
+          <li>   Sulfides. eg. Pyrite, galena, sphalerite.</li>
+          <li>   Sulfates. eg. Baryte, gypsum.</li>
+          <li>   Carbonates. eg. Calcite, magnesite, dolomite.</li>
+          <li>   Phosphates.</li>
+          <li>   Halides.</li>
+          </ul>
+          <p>Minerals can be identified by their <strong>color, luster, streak, cleavage, hardness, and even by their chemical composition.</strong> Using these properties is one way a Geologist defines and identifies what kind of mineral a specimen is. 
+          Most minerals can be characterized and classified by their unique physical properties: <strong>hardness, luster, color, streak, specific gravity, cleavage, fracture, and tenacity.</strong></p>
+          <h3 id="study-of-physical-properties-and-identification-of-minerals">Study of Physical properties and identification of minerals.</h3>
+          <p><strong>Rock forming Minerals:</strong> Quartz, Feldspar, Muscovite, Biotite, Augite, Hornblende, Olivine, Garnet, Kyanite, Talc, Chlorite, Flit, Jasper, Asbestos, Calcite etc. Economic Minerals: Bauxite, Magnetite, Hematite, Pyrite and Chromite. Galena, Graphite, Pyrolusite, Magnesite </p>
+          <h3 id="identification-based-on-the-various-physical-properties-of-minerals-are-as-follows">Identification based on the various physical properties of minerals are as follows</h3>
+          <ol>
+          <li>Form </li>
+          <li>Colour </li>
+          <li>Streak </li>
+          <li>Luster </li>
+          <li>Fracture </li>
+          <li>Cleavage </li>
+          <li>Hardness </li>
+          <li>Specific Gravity (Density) </li>
+          <li>Degree of Transparency </li>
+          <li>Special Properties.</li>
+          </ol>
+          <p><strong>FORM:</strong>
+          This is one of the first observation made when a mineral is examined in a hand specimen. The form represent the common mode of occurrence of a mineral in nature it is also called habit or structure of the mineral.
+          The following is the list of some common forms and the minerals which characteristically exhibit them, i.e., appearance of the particular form is indicative of a certain mineral.</p>
+          <table>
+          <thead>
+          <tr>
+          <th>Sr No</th>
+          <th>Name of the Form</th>
+          <th>Description</th>
+          <th>Mineral Example</th>
+          </tr>
+          </thead>
+          <tbody><tr>
+          <td>1</td>
+          <td>Lamellar Form</td>
+          <td>Mineral    appear separate layers    as    thin</td>
+          <td>Different Mica varieties of</td>
+          </tr>
+          <tr>
+          <td>2</td>
+          <td>Tabular Form</td>
+          <td>Mineral appear as slabs of  uniform thickness</td>
+          <td>Feldspar</td>
+          </tr>
+          <tr>
+          <td>3</td>
+          <td>Fibrous Form</td>
+          <td>Mineral appear to be made up of fine threads fibers may or may not be separable</td>
+          <td>Parallel Fibers     Asbestos type Satinspar. Radiating Fibers</td>
+          </tr>
+          <tr>
+          <td>4</td>
+          <td>Pisolitic Form</td>
+          <td>Mineral appear to be made up of small spherical grains(pea-size)</td>
+          <td></td>
+          </tr>
+          <tr>
+          <td>5</td>
+          <td>Oolitic Form</td>
+          <td>Similar    to    Pisolitie    but grains are  of still smaller size (like fish egg)</td>
+          <td>Some Limestone's</td>
+          </tr>
+          <tr>
+          <td>6</td>
+          <td>Rhombic Form</td>
+          <td>Rhombic Shape</td>
+          <td>Calcite, Dolomite</td>
+          </tr>
+          <tr>
+          <td>7</td>
+          <td>Bladed Form</td>
+          <td>Mineral appear as cluster or as independent lath shaped (i.e. rectangular grains)</td>
+          <td>Kyanite</td>
+          </tr>
+          <tr>
+          <td>8</td>
+          <td>Granular Form</td>
+          <td>Mineral appear to be made up of innumerable equidimensional grains of coarse or medium or fine size</td>
+          <td>Chromite,Magnetite,Pyrite</td>
+          </tr>
+          <tr>
+          <td>9</td>
+          <td>Reni From</td>
+          <td>Kidney shaped mineral appear with number of over lapping smooth and somewhat large curved surfaces</td>
+          <td>Hematite</td>
+          </tr>
+          <tr>
+          <td>10</td>
+          <td>Botryoidal Form</td>
+          <td>Similar to Reni form but with smaller curved faces like bunch of grapes</td>
+          <td>Chalcedony Psilomclane hematite</td>
+          </tr>
+          <tr>
+          <td>11</td>
+          <td>Mammillary</td>
+          <td>Mineral appear with large mutually    interfering spheroidal surface - similar to Reni form</td>
+          <td>Malachite</td>
+          </tr>
+          <tr>
+          <td>12</td>
+          <td>Acicular Form</td>
+          <td>Mineral appear to be made up of thin needles</td>
+          <td>Natrolitc, Actinolite</td>
+          </tr>
+          <tr>
+          <td>13</td>
+          <td>Columnar Form</td>
+          <td>Mineral    appear slender prism    as    long</td>
+          <td>Tourmaline Topaz</td>
+          </tr>
+          <tr>
+          <td>14</td>
+          <td>Prismatic Form</td>
+          <td>As    elongated    indepent crystals</td>
+          <td>Staucdite, Apatite, Quartz    Beryl,</td>
+          </tr>
+          <tr>
+          <td>15</td>
+          <td>Spongy Form</td>
+          <td>Porous</td>
+          <td>Pyrolusite, Bauxite</td>
+          </tr>
+          <tr>
+          <td>16</td>
+          <td>Crystal Form</td>
+          <td>Polyhedral,    Geometrical Shapes</td>
+          <td>Garnet, some Zeolites, Quartz,    Amethyst, Pyrite, Galena</td>
+          </tr>
+          <tr>
+          <td>17</td>
+          <td>Interpenetrating Twin Form</td>
+          <td></td>
+          <td>Starurolitc</td>
+          </tr>
+          <tr>
+          <td>18</td>
+          <td>Massive Form</td>
+          <td>No    definite    shape    for mineral</td>
+          <td>Fluorite, Pyrite Calcite, Graphite,Olivine Quartz, Jasper</td>
+          </tr>
+          <tr>
+          <td>19</td>
+          <td>Concretionary Form</td>
+          <td>Porous and appear due to accretion    of    small irregularly shaped masses</td>
+          <td>Laterite</td>
+          </tr>
+          <tr>
+          <td>20</td>
+          <td>Nodular Form</td>
+          <td>Irregularly shaped impact bodies with curved surface</td>
+          <td>Flit, Limestone</td>
+          </tr>
+          </tbody></table>
+          <p><strong>COLOUR:</strong>
+          It depends upon the absorption of some and the reflection of others of coloured ray of white light. Colour of an object depends upon the colour of the reflected rays when all other colour rays are observed the colour of a mineral is often its most striking property.</p>
+          <ol>
+          <li>   Absorbed light represents energy that has been used to move electrons from energy level to the other.</li>
+          <li>   Factors affecting colour of a mineral type of element valence, state, type of bonding type of neighboring atoms, feature of local symmetry.</li>
+          </ol>
+          <p><strong>For Example:</strong></p>
+          <h5 id="chemical-composition-of-olivine-of-2-end-members">Chemical composition of olivine of 2-end members</h5>
+          <ol>
+          <li>   <strong>Fosterite:</strong>  Mg2 SiO4 White Colour</li>
+          <li>   <strong>Fayalite:</strong>  Fl2 SiO4 Dark Bottle Green
+          This is caused by eh Fe2 ion observing the more of the reddish and the violet parts of the spectrum. Therefore, olivine is more or less green according to its iron content. Sometimes impurities cause colour.</li>
+          </ol>
+          <h5 id="diagnostic-colours-of-some-minerals">Diagnostic colours of some minerals:</h5>
+          <ol>
+          <li>   Galena - Dark Leady Grey</li>
+          <li>   Hematite - Dark Leady Grey</li>
+          <li>   Graphite - Shining Black</li>
+          <li>   Pyrite - Black</li>
+          <li>   Olivine - Yellow</li>
+          <li>   Muscovite in book form - Silver White Colour</li>
+          <li>   Muscovite in thin layers - Colorless</li>
+          <li>   Magnesite - Spotless White</li>
+          <li>   Opal – Milky white</li>
+          <li>   Chromite, Magnetite - Black
+          Commonly Exhibited Colour of some Minerals</li>
+          </ol>
+          <table>
+          <thead>
+          <tr>
+          <th>Minerals-&gt;Colour</th>
+          <th>Minerals-&gt;Colour</th>
+          </tr>
+          </thead>
+          <tbody><tr>
+          <td>Hornblende -&gt; Dark Green</td>
+          <td>Calcite -&gt; White</td>
+          </tr>
+          <tr>
+          <td>Augite -&gt; Greenish Black</td>
+          <td>Quartz -&gt; White / Colorless</td>
+          </tr>
+          <tr>
+          <td>Orthoclase -&gt; White or Shades of Red</td>
+          <td>Asbestos -&gt; White, Green, Grey, Yellow</td>
+          </tr>
+          <tr>
+          <td>Plagioclase -&gt; Grey or White</td>
+          <td>Jasper -&gt; Red</td>
+          </tr>
+          <tr>
+          <td>Microcline -&gt; White, Pink or Green</td>
+          <td>Flint -&gt; Yellowish Brown</td>
+          </tr>
+          <tr>
+          <td>Kyanite -&gt; Blue</td>
+          <td>Limonite -&gt; Yellow or Brownish</td>
+          </tr>
+          <tr>
+          <td>Garnet-&gt; Red</td>
+          <td>Baryets -&gt; White / Pale Grey</td>
+          </tr>
+          <tr>
+          <td>Talc -&gt; White / Pale</td>
+          <td>Yellow -&gt;    Gypsum -&gt; Colorless or White</td>
+          </tr>
+          </tbody></table>
+          <h3 id="minerals-which-show-different-colours">Minerals which show different colours:</h3>
+          <ol>
+          <li>   <strong>Quartz</strong> -&gt; Colourless, White, Green, Violet, Grey, Yellow, Pink etc.,</li>
+          <li>   <strong>Feldspar</strong> -&gt; White, Grey, Shades of Red, Green, Dirty, White etc.,</li>
+          <li>   <strong>Calcite</strong> -&gt; Colourless, White, Shades of Red Grey, Yellow etc.,</li>
+          </ol>
+          <p><strong>STREAK:</strong>
+          The colour of mineral powder is called streak of a mineral, and may be quite different from that of the mineral mass. An unglazed white porcelain plate called a streak plate is used in the lab for testing the streak of a mineral. It is conveniently obtained for observation purpose by rubbing a mineral against by harder surface.</p>
+          <ol>
+          <li>   It is a reliable property than colour during specific investigation of sulphides and some oxides.</li>
+          <li>   Magnetite and chromite, though look alike (inform, colour and luster) can be distinguished from streak. Magnetite gives black streak, whereas chromite gives brown streak.</li>
+          </ol>
+          <p><strong>LUSTRE:</strong>
+          Lustre is the nature of shining on the surface of the mineral.</p>
+          <h4 id="based-on-the-quality-of-shining-lustre-are-grouped-as">Based on the Quality of Shining Lustre are grouped as:</h4>
+          <table>
+          <thead>
+          <tr>
+          <th>Sr No</th>
+          <th>Name of the Lustre</th>
+          <th>Description of Lustre</th>
+          <th>Mineral Examples</th>
+          </tr>
+          </thead>
+          <tbody><tr>
+          <td>1</td>
+          <td>Metallic Lustre</td>
+          <td>Metallic Lustre is the type of shinning that appears on the surface of a metal</td>
+          <td>Galena,    Pyrite, Gold, Bernie</td>
+          </tr>
+          <tr>
+          <td>2</td>
+          <td>Submetallic Lustre</td>
+          <td>Similar to Metallic Lustre but the amount of Shining is less</td>
+          <td>Hematite, Chromite, Magnetite, Ilmenite, Psiolmelane</td>
+          </tr>
+          <tr>
+          <td>3</td>
+          <td>Vitreous Lustre</td>
+          <td>Shining like a Glass Sheet</td>
+          <td>Quartz,    Calcite, Dolomite, Feldspar        barytes etc.</td>
+          </tr>
+          <tr>
+          <td>4</td>
+          <td>Sub vitreous</td>
+          <td>Sub vitreous Lustre is similar to vitreous but with less shining</td>
+          <td>Pyroxenes    and amphiboles</td>
+          </tr>
+          <tr>
+          <td>5</td>
+          <td>Pearly Lustre</td>
+          <td>Shining like a Pearl</td>
+          <td>Tale, Selenite (Gypsum) Mica Muscovite</td>
+          </tr>
+          <tr>
+          <td>6</td>
+          <td>Silkey Lustre</td>
+          <td>Shining like a Silk</td>
+          <td>Fibrous Minerals kike asbestos and satinspar</td>
+          </tr>
+          <tr>
+          <td>7</td>
+          <td>Resinous Lustre</td>
+          <td>Shining like a Resin</td>
+          <td>Opal    agate chalcedony</td>
+          </tr>
+          <tr>
+          <td>8</td>
+          <td>Greasy Lustre</td>
+          <td>Shining like a Grease</td>
+          <td>Graphite, Serpentine</td>
+          </tr>
+          <tr>
+          <td>9</td>
+          <td>Adamantine Lustre</td>
+          <td>Shining like a Diamond</td>
+          <td>Garnet,    Sphene, Zircon Diamond</td>
+          </tr>
+          <tr>
+          <td>10</td>
+          <td>Earthy or Dull Lustre</td>
+          <td>Shining like a Earth or Chalk</td>
+          <td>Magnesite, Kaolin,    Chalk Bauxite</td>
+          </tr>
+          </tbody></table>
+          <p>The Lustre of mineral may be of different degrees of intensity, according to the amount of light reflected form their surfaces: Splendent, Shinning, Glistening Glimmering and Dull.</p>
+          <p><strong>FRACTURE:</strong>
+          Fracture is the randomly broken surface a mineral. It is important to note the characters of the fracture displayed in the broken or chipped surfaces. Fracture with irregular surfaces are independent and different from smooth flat surfaces of cleavages.</p>
+          <p><strong>Fracture is described as:</strong></p>
+          <table>
+          <thead>
+          <tr>
+          <th>Sr No</th>
+          <th>Name of the Fracture</th>
+          <th>Description of the Mineral</th>
+          <th>Mineral Examples</th>
+          </tr>
+          </thead>
+          <tbody><tr>
+          <td>1</td>
+          <td>Even Fracture</td>
+          <td>If the broken surface of a mineral is plain an smooth, it is called Even Fracture</td>
+          <td>Magnetite, Chalk</td>
+          </tr>
+          <tr>
+          <td>2</td>
+          <td>Uneven Fracture</td>
+          <td>If the broken surface is rough or irregular it is called Uneven Fracture</td>
+          <td>Most of the Minerals</td>
+          </tr>
+          <tr>
+          <td>3</td>
+          <td>Hackly Fracture</td>
+          <td>If the broken surface is very irregular like the end of a broken stick</td>
+          <td>Asbestos, Tremolite, Kyanite</td>
+          </tr>
+          <tr>
+          <td>4</td>
+          <td>Conchoidal Fracture</td>
+          <td>If the broken surface is smooth and curved it is called Conchoidal Fracture</td>
+          <td>Opal, Volcanic Glass</td>
+          </tr>
+          <tr>
+          <td>5</td>
+          <td>Sub-Conchoidal Fracture</td>
+          <td>If the curved nature is less prominent it is called Sub-Conchoidal Fracture</td>
+          <td>Agate, Flint, Japer etc.</td>
+          </tr>
+          </tbody></table>
+          <p>Like streak it is also less useful in mineral identification because a majority of the minerals shows the same kind of Fracture.</p>
+          <p><strong>CLEAVAGE:</strong>
+          The definite direction or plane along which mineral tends to break easily is called the cleavage that mineral. Cleavage pane represents he planes of weakness in the atomic structure of a mineral. Cleavage if present occurs as innumerable parallel planes along which the mineral is equally weak. Hence all such parallel planes of weakness are referred to as a se. depending on their atomic structure. Crystalline mineral will have one set of cleavage, two sets of cleavage ,three sets of cleavage, four sets of cleavage, and six sets of cleavage. The atomic structure of a mineral is definite. The cleavage, character of the mineral will also be definite. In any mineral the occurrence of cleavage can be detected easily by fitting or turning the specimen in different directions. Depending or the atomic structure development of cleavage character may differ in different minerals or in the same mineral.Depending on the degree of perfection cleavage may be described as perfect or eminent or Excellent, Good, Imperfect, Poor or Indistinct. </p>
+          <p><strong>Changes Angles in</strong> </p>
+          <ul>
+          <li>Calcite</li>
+          <li>Pyroxene and Amphibole:</li>
+          </ul>
+          <table>
+          <thead>
+          <tr>
+          <th>Sr No</th>
+          <th>Cleavage Sets</th>
+          <th>Mineral Example</th>
+          </tr>
+          </thead>
+          <tbody><tr>
+          <td>1</td>
+          <td>One Set</td>
+          <td>Mica, Chlorite.</td>
+          </tr>
+          <tr>
+          <td>2</td>
+          <td>Two Sets</td>
+          <td>Feldspar,    Pyroxenes, Amphiboles</td>
+          </tr>
+          <tr>
+          <td>3</td>
+          <td>Three  Sets</td>
+          <td>Calcite, Dolomite Galena</td>
+          </tr>
+          <tr>
+          <td>4</td>
+          <td>Four Sets</td>
+          <td>Fluorite</td>
+          </tr>
+          <tr>
+          <td>5</td>
+          <td>Seven Sets</td>
+          <td>Sphalerite</td>
+          </tr>
+          <tr>
+          <td>6</td>
+          <td>No Cleavage</td>
+          <td>Quartz, Divine, Garnet</td>
+          </tr>
+          </tbody></table>
+          <p><strong>HARDNESS:</strong>
+          Hardness may be defined as the resistance offered by mineral to abrasion or scratching. Hardness may be tested by rubbing or scratching the specimen over a file or knife. The amount powder and the degree of noise produced is a test of the hardness of the mineral. When a softer mineral is scratched by a harder mineral, a definite scratch is observed on the softer mineral.</p>
+          <p>A standard set of 10 reference mineral is used to determine the hardness of a mineral. This is called Moh's Scale of hardness.</p>
+          <table>
+          <thead>
+          <tr>
+          <th>reference</th>
+          <th>Scale</th>
+          <th>reference</th>
+          <th>Scale</th>
+          </tr>
+          </thead>
+          <tbody><tr>
+          <td>Talc</td>
+          <td><strong>1</strong></td>
+          <td>Feldspar</td>
+          <td><strong>6</strong></td>
+          </tr>
+          <tr>
+          <td>Gypsum</td>
+          <td><strong>2</strong></td>
+          <td>Quartz</td>
+          <td><strong>7</strong></td>
+          </tr>
+          <tr>
+          <td>Calcite</td>
+          <td><strong>3</strong></td>
+          <td>Topaz</td>
+          <td><strong>8</strong></td>
+          </tr>
+          <tr>
+          <td>Fluorite</td>
+          <td><strong>4</strong></td>
+          <td>Corundum</td>
+          <td><strong>9</strong></td>
+          </tr>
+          <tr>
+          <td>Apatite</td>
+          <td><strong>5</strong></td>
+          <td>Diamond</td>
+          <td><strong>10</strong></td>
+          </tr>
+          </tbody></table>
+          <p>Hardness may be tested by means of Penknife <strong>(H=6)</strong> Window Glass <strong>(H=5)</strong> and Fingernail <strong>(H=2.5)</strong>.</p>
+          <p><strong>SPECIFIC GRAVITY OR DENSITY:</strong></p>
+          <p><strong>Measure of Minerals Density</strong></p>
+          <ol>
+          <li>   Density = Mass per unit volume Grams / cm3.</li>
+          <li>   Density depends on the type of atoms composing the mineral and how densely they have packed by the crystal lattice.</li>
+          </ol>
+          <p><strong>General Range of Density:</strong></p>
+          <ol>
+          <li>   Density around 2.7 common for light coloured rock forming minerals such as Felds par.</li>
+          <li>   Density around 6 common pyrite and other are forming minerals.</li>
+          </ol>
+          <p><strong>Note:</strong>
+          Some important rock forming minerals such as pyroxenes and Amphiboles have densities around 3.3.</p>
+          <p>Specific Gravity is the ratio between its weight and the weight of an equal volume of water at 40°C. Based on the Specific Gravity of Minerals, the Density of Minerals may be described as High, Medium and Low.</p>
+          <table>
+          <thead>
+          <tr>
+          <th>Sr No.</th>
+          <th>Density    Mineral</th>
+          <th>Example</th>
+          </tr>
+          </thead>
+          <tbody><tr>
+          <td>1</td>
+          <td>Low Density</td>
+          <td>GYPSUM (2.3) Graphite (2-2.3) Coal (1-1.8)</td>
+          </tr>
+          <tr>
+          <td>2</td>
+          <td>Medium Density  <strong>(Sp.Gravity 2.5-3.5)</strong></td>
+          <td>Quartz    (2.7),    Feldspar    (2.56-3.00), Pyroxene    (3.1-3.5),Amphiboles    (2.9-3.47), Mica (2.7-3.1)</td>
+          </tr>
+          <tr>
+          <td>3</td>
+          <td>High Density  <strong>(Sp.Gravity 2.5-3.5)</strong></td>
+          <td>Magnesite    (5.18),    Hematite    (4.9-5.3),Galena    (7.5),    Hematite    (3.5-5.5)Pyrolusite (4.8), Chromite (4.5-4.8) tin stone (8.71)</td>
+          </tr>
+          </tbody></table>
+          <p><strong>DEGREE OF TRANSPARENCY:</strong></p>
+          <p>Depending upon the resistance offered by the mineral to the passage of light through them, they may be classified as transparent, translucent and opaque.</p>
+          <ul>
+          <li><strong>Transparent:</strong>   Passage of light through the mineral.</li>
+          <li><strong>Translucent:</strong> Allows the passage of light but reflects back the light by mineral.</li>
+          <li><strong>Opaque:</strong> Does not allow and does not reflect back the light.</li>
+          </ul>
+          <p><strong>SPECIAL PROPERTIES:</strong></p>
+          <p>Some minerals exhibit peculiar characters which enable them to be identified easily. In some cases they are the consequences of the physical properties of the mineral itself. They are as follows.</p>
+          <ul>
+          <li>Tale by virtue of its Soft Nature <strong>(H-1)</strong>  exhibits smooth touch or soapy feel.</li>
+          <li>Graphite -&gt;  its low hardness <strong>(H-1 to 2)</strong> and black color marks on paper and due to their softness and black colour soil the fingers.</li>
+          </ul>
+          
+          </div>
+              <div class="bug-report-mobile">
+                  <bug-report id="bug-report" title="[BUG REPORT] IDENTIFICATION OF MINERAL" page-type="text" context-info="{&quot;organisation&quot;:&quot;Virtual Labs&quot;,&quot;developer_institute&quot;:&quot;COEP&quot;,&quot;expname&quot;:&quot;IDENTIFICATION OF MINERAL&quot;,&quot;labname&quot;:&quot;Virtual Lab&quot;,&quot;phase&quot;:&quot;Testing&quot;}" checkbox-json="{&quot;text&quot;:[&quot;Insufficient Content&quot;],&quot;video&quot;:[&quot;Insufficient Content&quot;],&quot;assesment&quot;:[&quot;Incorrect Options&quot;,&quot;Incorrect Answer&quot;,&quot;Incorrect Question&quot;],&quot;simulation&quot;:[&quot;Simulation Not Working&quot;,&quot;Incorrect Results/Observations&quot;,&quot;Insufficient/Incorrect Instructions&quot;],&quot;DEFAULT&quot;:[&quot;Page Not Loading&quot;,&quot;Content Not Visible&quot;,&quot;Incorrect Content&quot;]}" position="override" button_style="
+                          position: fixed; 
+                          bottom: 20px;
+                          right: 20px;
+                          z-index: 1;
+                          font-size: 0;
+                          padding: 25px;
+                          border-radius: 50%;
+                          border: none;
+                          background-color: #0fc0ff;
+                          background-image: url(data:image/png;base64,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);
+                          background-repeat: no-repeat;
+                          background-position: center;
+                          background-size: 30px;
+                          filter: invert(1);
+                      "></bug-report>
+              </div>
+        </div>
+      </div>
+      <footer class="text-light pt-2 vlabs-footer d-flex flex-column">
+        <div class="row px-5 mx-0">
+          <div class="col d-flex flex-column">
+            <span class="font-weight-bold vlabs-footer-sect-name pb-2 mb-3">Community Links</span>
+            <a href="https://www.sakshat.ac.in/" class="text-light">Sakshat Portal</a>
+            <a href="http://outreach.vlabs.ac.in/" class="text-light">Outreach Portal</a>
+            <a href="https://vlab.co.in/faq" class="text-light">FAQ: Virtual Labs</a>
+          </div>
+          <div class="col d-flex flex-column">
+            <span class="font-weight-bold vlabs-footer-sect-name pb-2 mb-3">Contact Us</span>
+            <span> Phone: General Information: 011-26582050 </span>
+            <span> Email: support@vlabs.ac.in </span>
+          </div>
+          <div class="col d-flex flex-column">
+            <span class="font-weight-bold vlabs-footer-sect-name pb-2 mb-3">Follow Us</span>
+            <div class="social-links">
+      	<a class="p-2 mt-1 mr-2 d-inline-flex justify-content-center align-items-center" style="background: #55acee;" href="https://twitter.com/TheVirtualLabs">
+      	  <i class="fa fa-twitter"></i>
+      	</a>
+      	<a class="p-2 mt-1 mr-2 d-inline-flex justify-content-center align-items-center" style="background: #3b5998;" href="https://www.facebook.com/Virtual-Labs-IIT-Delhi-301510159983871/">
+      	  <i class="fa fa-facebook"></i>
+      	</a>
+      	<a class="p-2 mt-1 mr-2 d-inline-flex justify-content-center align-items-center" style="background: #e52d27;" href="https://www.youtube.com/watch?v=asxRaOgk6a0">
+      	  <i class="fa fa-youtube"></i>
+      	</a>
+      	<a class="p-2 mt-1 mr-2 d-inline-flex justify-content-center align-items-center" style="background: #2867B2;" href="https://in.linkedin.com/in/virtual-labs-008ba9136">
+      	  <i class="fa fa-linkedin"></i>
+      	</a>
+            </div>
+          </div>
+        </div>
+        <div class="m-0 py-2 text-center" style="font-family: &quot;Open Sans&quot;, sans-serif; background: #212121;">
+          <a class="text-primary font-weight-bold" href="https://www.gnu.org/licenses/agpl-3.0.en.html"> AGPL 3.0 </a>
+          &nbsp;&amp;&nbsp;
+          <a class="text-primary font-weight-bold" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"> Creative Commons (CC BY-NC-SA 4.0) </a>
+        </div>
+      </footer>
+    <script src="./assets/js/toggleSidebar.js"></script>
+    <script src="./assets/js/event-handler.js"></script>    
+  
+
+<script type="module" src="https://virtual-labs.github.io/svc-bug-report/client/src/bug-report.js"></script></body></html>

@@ -1,0 +1,66 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Metallic minerals belong to which category with respect to colour?",
+      "answers": {
+        "a": "Allochromatic",
+        "b": "Pseudochromatic",
+        "c": "Idiochromatic",
+        "d": "Iridescence"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The type of mineral which shows a set of colours in succession is? ",
+      "answers": {
+        "a": "Pseudochromatic",
+        "b": "Allochromatic",
+        "c": "Idiochromatic",
+        "d": "Iridescence"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Pseudochromatism occurs due to ___________",
+      "answers": {
+        "a": "Reflection",
+        "b": "Transmittance",
+        "c": "Refraction",
+        "d": "Simultaneous reflection and refraction"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "The phenomenon due to which a mineral shows rainbow colours is?",
+      "answers": {
+        "a": "Idiochromatism",
+        "b": "Allochromatism",
+        "c": "Iridescence",
+        "d": "Pseudochromatism"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+	
+	{
+      "question": "Which mineral gives streak?",
+      "answers": {
+        "a": "Coloured and opaque",
+        "b": "Coloured and translucent",
+        "c": "Colourless and opaque",
+        "d": "Coloured and transparent"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
